@@ -1,2 +1,0 @@
-# MSS
-SOURCE
